@@ -15,3 +15,5 @@
                to it and displays it on the SSD1306 OLED Display and rings an alarm as programmed.
                
 ==========================================================================================================================================
+
+![Installation](https://user-images.githubusercontent.com/73112942/218235247-9e381678-bfca-40cb-abe8-5b54a461335a.jpg)
